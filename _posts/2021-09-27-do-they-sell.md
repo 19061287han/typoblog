@@ -17,3 +17,7 @@ Vogue acommodates glossy three page adverts to strategicially influence purchasi
 Star appeal within imagery is another factor pointing towards high-end luxury within Vogue's pages that may appeal to a younger audience but not allow them to be exploited through purchasing. Gucci's advert utilises singer Miley Cyrus as an ambassador for the scent as her brand ideals align with that of Gucci and Vogue - extravagance and a gratification of exclusivity. 
 
 So whether or not the younger portion of the target readership indulges in the opulent confines of Vogue's advertisements is beyond me, however if the interests of the readership of Vogue coincides with the themes behind Vogue's advertisements then popularity of purchase must blossom.
+
+
+
+References: https://www.condenast.ru/en/portfolio/magazines/vogue/circulation/
