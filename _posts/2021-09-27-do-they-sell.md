@@ -2,7 +2,7 @@
 layout: post
 title: Do they sell?
 date: 2021-09-27T16:06:13.438Z
-image: ../uploads/img_5873.jpg
+image: ../uploads/charisse-kenion-8zsmlyaaufg-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
