@@ -2,7 +2,7 @@
 layout: post
 title: Mastheads of the Magazine Sphere
 date: 2021-10-11T09:40:35.938Z
-image: ../uploads/img_6124.heic
+image: ../uploads/charisse-kenion-cjkvmakdyl0-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 ---
@@ -15,7 +15,7 @@ When a masthead indicates such recognition it isn’t always necessary for it to
 
 Mastheads for other genres of magazine like political or contemporary issues, such as The Big Issue or The Environmentalist are less likely to have a focus on the masthead and more so on the perceived content and so their mastheads are likely to be smaller and have simple design elements, so to not draw attention away from the issue at hand. With magazines similar it is likely that they have illustrations as opposed to photographs on the cover because the topics aren’t always people based but event topical and so hard to replicate in photography. Despite this, the masthead typefaces are still bold; simply with differing elements to gossip magazines in height and width - with the fonts on social magazines having shorter lengths and longer widths, usually also serif as the serifs on the fonts imply an opulence that takes away from the possible seriousness of the nature of the issue. 
 
-![](../uploads/img_6128.heic)
+![](../uploads/img_6127.jpg)
 
 Online versions of magazines evidently do not utilise mastheads as they lack cover pages, however the title and branding is carried over from the print version through the use of the typefaces and design.
 
