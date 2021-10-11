@@ -3,7 +3,7 @@ layout: post
 title: Mastheads of the Magazine Sphere
 date: 2021-10-11T09:40:35.938Z
 image: ../uploads/charisse-kenion-cjkvmakdyl0-unsplash.jpg
-title_color: "#dc3636"
+title_color: "#ffffff"
 comments: true
 ---
 **Within the journalistic sphere of published content - magazines prove to be heavily consumerist; therefore the covers act as unique selling points for each brand, on what they have to offer an actively involved demographic. The typefaces and style choices used symbolically on magazine covers are dominant signifiers for brand influence and so the typeface used in the masthead must illustrate the intended psychographics for the consumer.** 
