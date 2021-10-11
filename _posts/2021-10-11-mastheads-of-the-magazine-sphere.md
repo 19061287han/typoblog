@@ -2,6 +2,7 @@
 layout: post
 title: Mastheads of the Magazine Sphere
 date: 2021-10-11T09:40:35.938Z
+image: ../uploads/img_6124.heic
 title_color: "#ffffff"
 comments: true
 ---
@@ -13,6 +14,8 @@ Brands like ‘Vogue’ and ‘Elle’ denote opulence and style through sleek s
 When a masthead indicates such recognition it isn’t always necessary for it to be fully visible to the eye; sometimes being covered by other text or imagery. This is because the branding of the magazine is so easily recognisable that even with a letter obscured, that the brand is still prevalent. Additionally, it creates an interesting design element for the cover that stands out to magazine readers as it is a symbol of high esteem and honour, i.e. Vogue or Cosmopolitan. This is not to take away from the branding of the magazine but instead make it seem more exclusive and/or popular. This can also bring attention to the subject of the issue and so draw consumers in through star-appeal or design satisfaction. 
 
 Mastheads for other genres of magazine like political or contemporary issues, such as The Big Issue or The Environmentalist are less likely to have a focus on the masthead and more so on the perceived content and so their mastheads are likely to be smaller and have simple design elements, so to not draw attention away from the issue at hand. With magazines similar it is likely that they have illustrations as opposed to photographs on the cover because the topics aren’t always people based but event topical and so hard to replicate in photography. Despite this, the masthead typefaces are still bold; simply with differing elements to gossip magazines in height and width - with the fonts on social magazines having shorter lengths and longer widths, usually also serif as the serifs on the fonts imply an opulence that takes away from the possible seriousness of the nature of the issue. 
+
+![](../uploads/img_6128.heic)
 
 Online versions of magazines evidently do not utilise mastheads as they lack cover pages, however the title and branding is carried over from the print version through the use of the typefaces and design.
 
