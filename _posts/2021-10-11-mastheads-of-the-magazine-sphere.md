@@ -16,4 +16,6 @@ Mastheads for other genres of magazine like political or contemporary issues, su
 
 Online versions of magazines evidently do not utilise mastheads as they lack cover pages, however the title and branding is carried over from the print version through the use of the typefaces and design.
 
+Dependant on what genres you as a consumer are interested in, mastheads and design are important in deciding whether or not a magazine is appealing to you; the typefaces, colours, composition, etc. are all indispensible when it comes to brand loyalty because these elemenst make up the house style of which the consumer will be choosing to associate their own personal brand with. 
+
 To summarise, mastheads are integral to initial perception of a brand when it comes to picking up a physical copy of a magazine.
