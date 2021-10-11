@@ -6,7 +6,7 @@ image: ../uploads/do-they-sell.png
 title_color: "#ffffff"
 comments: true
 ---
-##### Fashion magazines offer public education on contemporary prevailing trends. Proposing metaphysical eye candy to their ideal demographic. However, I find it important to question whether or not high-end luxury fashion magazines, such as Vogue, are in fact selling products through advertisements when they seemingly only depict items of affluence.
+**Fashion magazines offer public education on contemporary prevailing trends. Proposing metaphysical eye candy to their ideal demographic. However, I find it important to question whether or not high-end luxury fashion magazines, such as Vogue, are in fact selling products through advertisements when they seemingly only depict items of affluence.**
 
 Using Vogue as an example, the October 2021 issue's advertisements illustrate themes of high fashion and stylistic prestige; their masthead typeface acts as a dominant signifier for Vogue's house style - the inclusion of a sleek serif font like 'didot' connotes high quality - which is repeatedly denoted within the adverts to create a cyclical train of thought for the demographic, who then associate the themes of the high fashion brands (positioned within the adverts) with Vogue's branding.
 
