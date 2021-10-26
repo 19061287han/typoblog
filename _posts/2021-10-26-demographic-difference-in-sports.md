@@ -2,6 +2,7 @@
 layout: post
 title: Demographic Difference in Sports
 date: 2021-10-26T17:10:19.650Z
+image: ../uploads/charisse-kenion-fc9iscqq1j4-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
