@@ -2,7 +2,7 @@
 layout: post
 title: Do they sell?
 date: 2021-09-27T16:06:13.438Z
-image: ../uploads/charisse-kenion-8zsmlyaaufg-unsplash.jpg
+image: ../uploads/laura-chouette-gkwvgh3v6xk-unsplash.jpg
 title_color: "#ffffff"
 comments: true
 ---
