@@ -39,6 +39,16 @@ p {
     flex: 200px;
 }
 
+img {
+    width:1000px;
+}
+
+.caption {
+margin:18px;
+margin-bottom:36px;
+color:orange;
+}
+
 main {
     width:75%;
     margin:0 auto;
