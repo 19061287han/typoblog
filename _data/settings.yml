@@ -13,5 +13,5 @@ fixednavbar: true
 upzoom: true
 items:
   - name: aboutme
-    siteurl: https://github.com/19061287han/typoblog/blob/master/aboutme/index.html
+    siteurl: /aboutme
     tab: true
