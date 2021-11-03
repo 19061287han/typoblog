@@ -12,6 +12,6 @@ gridlayout: true
 fixednavbar: true
 upzoom: true
 items:
-  - name: aboutme
+  - name: About Me
     siteurl: /aboutme
     tab: false
