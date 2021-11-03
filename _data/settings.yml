@@ -13,4 +13,5 @@ fixednavbar: true
 upzoom: true
 items:
   - name: aboutme
-    siteurl: /aboutme
+    siteurl: typoblog/aboutme
+    tab: false
