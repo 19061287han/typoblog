@@ -14,4 +14,4 @@ upzoom: true
 items:
   - name: aboutme
     siteurl: file:///Volumes/GoogleDrive/My%20Drive/Year%202%20Notes/Typographic%20Design%20for%20Page%20&%20Screen/typoblog/aboutme/index.html
-    tab: false
+    tab: true
