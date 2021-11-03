@@ -1,5 +1,5 @@
 body {
-font-family: "AmericanTypewriter", monospace;
+font-family: 'Abril Fatface', cursive;
   margin: 0;
 }
 
@@ -18,7 +18,7 @@ img {
 }
 
 h2{
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-family: 'Abril Fatface', cursive;
 color:orange;
 text-align: center;
 }
