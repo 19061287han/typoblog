@@ -110,7 +110,6 @@ h5 {
     text-align:right;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:8pt;
-    margin-left:5pt;
 }
 
 .interests {
@@ -121,21 +120,24 @@ h6 {
     text-align:center;
     letter-spacing: 1pt;
     color:orange;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h7 {
-    text-align:center;
-    margin-bottom:12px;
+.contact {
+    font-size:10pt;
+    margin-bottom: 12px;
 }
 
-
+.twitter {
+    width: 30px;
+text-align: center;
+}
 
 @media screen and (max-width:800px) {
     section1 {
         width: 100%;
     }
-    h4, p, .moodboard, h5, h6, h7 {
+    h4, p, .moodboard, h5, h6,  {
         width:100%;
     }
     p {
