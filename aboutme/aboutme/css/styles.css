@@ -1,0 +1,152 @@
+body {
+font-family: 'Abril Fatface', cursive;
+  margin: 0;
+}
+
+
+h1 {
+  color:white;
+  background-color: orange;
+  padding:12px;
+  font-size: 50pt;
+  letter-spacing: 1pt;
+  margin-top:36px;
+  text-align: center;
+}
+
+
+section1, section2 {
+    width:75%;
+    margin:0 auto;
+    justify-content:center; 
+    flex-basis: 100%; 
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.profilepic{
+    width:30%;
+    height:30%;
+}
+
+h2 {
+    color:orange;
+    font-size: 14pt;
+    margin-top: -15pt;
+    font-family: 'Abril Fatface', cursive;
+    word-spacing: 2pt;
+    letter-spacing: 2pt;
+    text-align: center;
+    margin-bottom: 30pt;
+}
+
+.text {
+    border: 3px solid orange;
+    padding: 20px;
+    display:grid;
+    flex-basis: 250px;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 15pt;
+    text-align: center;
+}
+
+list {
+    letter-spacing: 1pt;
+    padding-bottom:-100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+list2 {
+    font-size: 10pt;
+    padding-bottom:-100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+cr {
+    color:white;
+    background-color: orange;
+    text-align: center;
+    letter-spacing: 1pt;
+    padding:12px;
+}
+
+section2 {
+    display:grid;
+    grid-auto-rows: auto;
+    width: 1000px;
+}
+
+h4 {
+    font-size: 15pt;
+    text-align:center;
+    background-color: orange;
+    color:white;
+    letter-spacing: 1pt;
+    padding: 10px;
+}
+
+p {
+    border: 3px solid orange;
+    margin-top:-30px;
+    text-align:center;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+.moodboard {
+    width:1000px;
+    margin-top:-19px;
+    border: 3px solid orange;
+}
+
+h5 {
+    letter-spacing: 1pt;
+    word-spacing: 1pt;
+    margin-top:0px;
+    display:flex;
+    text-align:right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:8pt;
+}
+
+.interests {
+margin-top:-30px;
+}
+
+h6 {
+    text-align:center;
+    letter-spacing: 1pt;
+    color:orange;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact {
+    font-size:10pt;
+    margin-bottom: 12px;
+}
+
+.twitter {
+    width: 30px;
+text-align: center;
+}
+
+@media screen and (max-width:800px) {
+    section1 {
+        width: 100%;
+    }
+    h4, p, .moodboard, h5, h6,  {
+        width:100%;
+    }
+    p {
+        font-size: smaller;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    section1{
+        width: 100%;
+    }
+}
