@@ -3,45 +3,16 @@ font-family: 'Abril Fatface', cursive;
   margin: 0;
 }
 
+
 h1 {
-  color:orange;
+  color:white;
+  background-color: orange;
   padding:12px;
   font-size: 36pt;
-  margin-top:10;
+  margin-top:36px;
   text-align: center;
 }
 
-h2{
-font-family: 'Abril Fatface', cursive;
-color:orange;
-text-align: center;
-}
-
-p {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    text-align: left;
-}
-.info {
-    display: block;
-    border: 4px dotted rgba(32, 139, 32, 0.5);
-    margin-bottom: 12px;
-    margin-left: 18px;
-    margin-right: 18px;
-    padding-left: 18px;
-    padding-right: 18px;
-    background-color: white;
-    flex: 200px;
-}
-
-img {
-  width:100px;
-}
-
-.caption {
-margin:18px;
-margin-bottom:36px;
-color:orange;
-}
 
 main {
     width:75%;
@@ -50,8 +21,19 @@ justify-content:center;
 display: flex;
 flex-wrap: wrap;
 }
-body {
-    background-color: rgb(221, 240, 221);
+
+h2 {
+    color:orange;
+    font-size: 14pt;
+    margin-top: -15pt;
+    font-family: 'Abril Fatface', cursive;
+    word-spacing: 2pt;
+    letter-spacing: 2pt;
+    text-align: center;
+}
+
+.text {
+    border: 2px solid orange;
 }
 
 @media screen and (max-width:500px) {
